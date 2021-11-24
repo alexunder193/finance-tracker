@@ -6,6 +6,8 @@ Rails.application.configure do
   # since you don't have to restart the web server when you make code changes.
   config.cache_classes = false
 
+  config.hosts = 'localhost', '9aa4-109-242-233-11.ngrok.io', 'warm-falcon-69.loca.lt'
+
   # Do not eager load code on boot.
   config.eager_load = false
 
