@@ -2,6 +2,8 @@ class UserStocksController < ApplicationController
 
   def create
     stock = Stock.check_db(params[:ticker])
+
+    # if there is no stock ticker in Stock table
     if stock.blank?
       stock = Stock.new_lookup(params[:ticker])
       stock.save
