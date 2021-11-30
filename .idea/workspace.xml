@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0455bb7f-f5f3-41e9-b906-58bcca043ea0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/friends/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_list.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/users/_friend_result.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_friend_result.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
@@ -177,7 +178,7 @@
       <workItem from="1637924157603" duration="79000" />
       <workItem from="1637946845856" duration="13842000" />
       <workItem from="1638177132564" duration="22000" />
-      <workItem from="1638297606830" duration="2892000" />
+      <workItem from="1638297606830" duration="4929000" />
     </task>
     <servers />
   </component>
